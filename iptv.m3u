@@ -5,29 +5,9 @@ http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1,ТВЦ
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_ASTRH_TVC/variant.m3u8
-#EXTINF:-1,НТВ
-http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
-#EXTINF:-1,Пятый канал
-https://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
 #EXTINF:-1,Россия 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1,Виасат Природа
-https://sc.id-tv.kz/ViasatNature_34_35.m3u8
 #EXTINF:-1,Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:-1,Рен ТВ
-https://sc.id-tv.kz/RenTV_34_35.m3u8
-#EXTINF:-1,СТС
-http://85.192.10.131/hls/sts/playlist.m3u8
-#EXTINF:-1,Домашний
-http://85.192.10.131/hls/domashnij/playlist.m3u8
-#EXTINF:-1,Баш24
-http://109.233.169.137/540/b24-540.m3u8
-#EXTINF:-1,Пятница!
-https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,МИР
+#EXTINF:-1,Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,ТНТ
-https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,Дом Кино
-https://sc.id-tv.kz/Cinema_34_35.m3u8
