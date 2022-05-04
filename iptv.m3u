@@ -6,7 +6,7 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1,ТВЦ
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_ASTRH_TVC/variant.m3u8
 #EXTINF:-1,Россия 24
-http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_1.m3u8
 #EXTINF:-1,Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1,Мир
