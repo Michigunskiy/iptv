@@ -5,9 +5,15 @@ http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1,ТВЦ
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_ASTRH_TVC/variant.m3u8
+#EXTINF:-1,НТВ
+http://46.174.83.66/NTV/index.m3u8?em9uYS1pcHR2LnJ1
+#EXTINF:-1,Пятый
+http://46.174.83.66/5Kanal/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:-1,Россия 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1,Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1,Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Рен-ТВ
+http://46.174.83.66/RenTV/index.m3u8?em9uYS1pcHR2LnJ1
