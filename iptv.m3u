@@ -1,15 +1,19 @@
 #EXTM3U
 #EXTINF:-1,Первый канал
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
+http://50.7.92.90/Pervikanal/mono.m3u8
 #EXTINF:-1,Россия 1
-http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+http://50.7.92.90/Planeta_RTR/mono.m3u8
 #EXTINF:-1,ТВЦ
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_ASTRH_TVC/variant.m3u8
+#EXTINF:-1,НТВ
+http://50.7.188.186/NTV_HD/mono.m3u8
+#EXTINF:-1,Пятый
+http://50.7.188.186/5_kanal/mono.m3u8
 #EXTINF:-1,Россия 24
-http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_1.m3u8
+http://50.7.92.90/Rossiya_24/mono.m3u8
 #EXTINF:-1,Звезда
-http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:-1,Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+http://50.7.188.186/Zvezda/mono.m3u8
+#EXTINF:-1,Рен-ТВ
+http://50.7.92.90/REN_TV/mono.m3u8
 #EXTINF:1,ТНВ-Планета
 http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
