@@ -13,7 +13,7 @@ http://50.7.188.186/5_kanal/mono.m3u8
 http://50.7.92.90/Rossiya_24/mono.m3u8
 #EXTINF:-1,Звезда
 http://50.7.188.186/Zvezda/mono.m3u8
+#EXTINF:1,Nat Geo Wild
+http://50.7.92.90/Nat_Geo_Wild/mono.m3u8
 #EXTINF:-1,Рен-ТВ
 http://50.7.92.90/REN_TV/mono.m3u8
-#EXTINF:1,ТНВ-Планета
-http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
