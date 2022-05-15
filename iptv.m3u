@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1,Первый канал
-http://50.7.92.90/Pervikanal/mono.m3u8
-#EXTINF:-1,Россия HD
-http://50.7.188.186/Rossiya_HD/mono.m3u8
-#EXTINF:-1,Время
-http://50.7.92.90/Vremya/mono.m3u8
-#EXTINF:-1,НТВ
-http://50.7.92.90/NTV_Mir/mono.m3u8
-#EXTINF:-1,Пятый
-http://50.7.188.186/5_kanal/mono.m3u8
 #EXTINF:-1,Россия 24
-http://50.7.92.90/Rossiya_24/mono.m3u8
+http://212.122.80.182:38167/play/a02i/index.m3u8
+#EXTINF:-1,ТВЦ
+http://212.122.80.182:38167/play/a016/index.m3u8
 #EXTINF:-1,Звезда
-http://50.7.188.186/Zvezda/mono.m3u8
-#EXTINF:-1,Домашний
-http://50.7.188.186/Domashniy/mono.m3u8
+http://212.122.80.182:38167/play/a017/index.m3u8
+#EXTINF:-1,Пятница
+http://212.122.80.182:38167/play/a018/index.m3u8
+#EXTINF:-1,СТС
+http://212.122.80.182:38167/play/a015/index.m3u8
+#EXTINF:-1,Мосфильм
+http://212.122.80.182:38167/play/a013/index.m3u8
+#EXTINF:-1,КиноХИТ
+http://212.122.80.182:38167/play/a019/index.m3u8
+#EXTINF:-1,Киносерия
+http://212.122.80.182:38167/play/a01b/index.m3u8
 #EXTINF:-1,Рен-ТВ
-http://50.7.92.90/REN_TV/mono.m3u8
+http://212.122.80.182:38167/play/a014/index.m3u8
